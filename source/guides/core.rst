@@ -29,12 +29,12 @@ Release Process
    :maxdepth: 2
    :glob:
 
+   /process/release-faq*
    /process/feature-release*
    /process/bug-fix-release*
    /process/dot-release*
    /process/security-release*
    /process/mobile-release*
-   /process/release-faq*
    /process/release-tips*
 
 Community Process
@@ -94,6 +94,7 @@ Marketing
    /process/marketing-guidelines*
    /process/asset-guidelines*
    /process/end-user-documentation*
+   /process/integrations-directory*
 
    
 Partners
